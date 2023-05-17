@@ -1,0 +1,16 @@
+:root {
+    --brown: #8B4513;
+  }
+
+  .navbar {
+    background-color: var(--brown);
+  }
+
+  footer {
+    background-color: var(--brown);
+  }
+  
+  .bg-brown {
+    background-color: var(--brown) !important;
+  }
+
