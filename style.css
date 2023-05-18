@@ -1,16 +1,25 @@
 :root {
-    --brown: #8B4513;
-  }
+  --brown: #8b4513;
+  --brown-light: #ab7630;
+}
 
-  .navbar {
-    background-color: var(--brown);
-  }
+.navbar {
+  background-color: var(--brown);
+}
 
-  footer {
-    background-color: var(--brown);
-  }
-  
-  .bg-brown {
-    background-color: var(--brown) !important;
-  }
+footer {
+  background-color: var(--brown);
+}
 
+.bg-brown {
+  background-color: var(--brown) !important;
+}
+
+
+body {
+  background-color: var(--brown-light);
+}
+
+#headerText {
+  font-family: 'Alfa Slab One', cursive;
+}
