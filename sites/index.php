@@ -14,7 +14,7 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Alfa+Slab+One&display=swap" rel="stylesheet"> 
   </head>
-  
+
   <body>
     <header class="p-3 bg-brown">
       <div class="container">
@@ -25,10 +25,10 @@
           </a>
   
           <ul class="nav col-12 col-lg-auto me-lg-auto mb-2 justify-content-center mb-md-0 mx-5">
-            <li><a href="index.html" class="nav-link px-2 text-white-50">Home</a></li>
-            <li><a href="forum.html" class="nav-link px-2 text-white">Forum</a></li>
-            <li><a href="wiki.html" class="nav-link px-2 text-white">Wiki</a></li>
-            <li><a href="about.html" class="nav-link px-2 text-white">About</a></li>
+            <li><a href="index.php" class="nav-link px-2 text-white-50">Home</a></li>
+            <li><a href="/sites/forum.php" class="nav-link px-2 text-white">Forum</a></li>
+            <li><a href="/sites/wiki.php" class="nav-link px-2 text-white">Wiki</a></li>
+            <li><a href="/sites/about.php" class="nav-link px-2 text-white">About</a></li>
           </ul>
 
   
@@ -40,7 +40,8 @@
       </div>
     </header>
 
-    <!-- Main content -->
+
+
     <div class="container my-5">
       <h1>Welcome to the Factorio Fan Forum</h1>
       <p>

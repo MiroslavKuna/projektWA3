@@ -14,23 +14,23 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Alfa+Slab+One&display=swap" rel="stylesheet"> 
   </head>
-  
-  
+
   <body>
     <header class="p-3 bg-brown">
       <div class="container">
         <div class="d-flex flex-wrap align-items-center justify-content-center justify-content-lg-start">
-          <a href="/" class="d-flex align-items-center mb-2 mb-lg-0 text-decoration-none">
+          <a href="#" class="d-flex align-items-center mb-2 mb-lg-0 text-decoration-none">
             <img src="/img/emblem_wheel.png" class="img-fluid rounded-top" alt="" height="50" width="50">
+            <p class="mt-3 mx-2 text-white fs-3" id="headerText">Factorio Fan Forum</p>
           </a>
-          <p class="mt-3 mx-2 text-white fs-3" id="headerText">Factorio Fan Forum</p>
   
           <ul class="nav col-12 col-lg-auto me-lg-auto mb-2 justify-content-center mb-md-0 mx-5">
-            <li><a href="index.html" class="nav-link px-2 text-white">Home</a></li>
-            <li><a href="forum.html" class="nav-link px-2 text-white-50">Forum</a></li>
-            <li><a href="wiki.html" class="nav-link px-2 text-white">Wiki</a></li>
-            <li><a href="about.html" class="nav-link px-2 text-white">About</a></li>
+            <li><a href="../index.php" class="nav-link px-2 text-white">Home</a></li>
+            <li><a href="forum.php" class="nav-link px-2 text-white">Forum</a></li>
+            <li><a href="wiki.php" class="nav-link px-2 text-white-50">Wiki</a></li>
+            <li><a href="about.php" class="nav-link px-2 text-white">About</a></li>
           </ul>
+
 
   
           <div class="text-end">
