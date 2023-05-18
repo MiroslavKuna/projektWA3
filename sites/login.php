@@ -67,4 +67,7 @@
           <li class="ms-3"><a href="#"> <img src="/img/twitter.png" class="img-fluid rounded-top" alt="" height="24" width="24"> </a></li>
         </ul>
       </footer>
+
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.0.2/js/bootstrap.bundle.min.js"></script>
+</body>
 </html>

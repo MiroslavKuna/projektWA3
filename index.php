@@ -56,7 +56,7 @@
             </li>
             <li class="list-group-item list-group-item-warning">Beginner friendly QoL mods</li>
             <li class="list-group-item list-group-item-warning">
-              World record for launching a rocket?
+              How does a bus work?
             </li>
           </ul>
         </div>

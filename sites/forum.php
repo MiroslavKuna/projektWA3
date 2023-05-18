@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -10,9 +11,13 @@
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   <link href="https://fonts.googleapis.com/css2?family=Alfa+Slab+One&display=swap" rel="stylesheet" />
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script src="/animationPlugins/jquery.zoom.js"></script>
+  <script src="/scripts/zoomImg.js"></script>
 </head>
 
-<body>
+<body>  
+  
   <header class="p-3 bg-brown">
     <div class="container">
       <div class="d-flex flex-wrap align-items-center justify-content-center justify-content-lg-start">
@@ -51,7 +56,7 @@
     <div class="card bg-brown">
       <div class="row g-0">
         <div class="col-md-4">
-          <img src="/img/refinery.png" class="img-fluid rounded-start" alt="..." />
+          <img src="/img/refinery.png" class="img-fluid rounded-top zoomable"  alt="..." />
         </div>
         <div class="col-md-8">
           <div class="card-body">
@@ -78,7 +83,33 @@
     <div class="card bg-brown">
       <div class="row g-0">
         <div class="col-md-4">
-          <img src="/img/refinery.png" class="img-fluid rounded-start" alt="..." />
+          <img src="/img/mods.png" class="img-fluid rounded-top" alt="..." />
+        </div>
+        <div class="col-md-8">
+          <div class="card-body">
+            <h5 class="card-title fw-bold text-white">
+              Beginner friendly QoL mods
+            </h5>
+            <p class="card-text">
+              I'm looking for some beginner friendly QoL mods for my friend who is starting with the game. I'm not
+              looking for anything that changes the game too much that fix some weird mechanics in the game. Any
+              suggestions?
+            </p>
+            <p class="card-text">
+              <small class="text-white-50">
+                11 replies<br />Last updated 2 hours ago</small>
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="container my-5">
+    <div class="card bg-brown">
+      <div class="row g-0">
+        <div class="col-md-4">
+          <img src="/img/refinery.png" class="img-fluid rounded-top" alt="..." />
         </div>
         <div class="col-md-8">
           <div class="card-body">
@@ -105,34 +136,7 @@
     <div class="card bg-brown">
       <div class="row g-0">
         <div class="col-md-4">
-          <img src="/img/refinery.png"  class="img-fluid rounded-start" alt="..." />
-        </div>
-        <div class="col-md-8">
-          <div class="card-body">
-            <h5 class="card-title fw-bold text-white">
-              Does anyone have an optimized blueprint for advanced refining?
-            </h5>
-            <p class="card-text">
-              I could not find any well made scalable blueprint for refining
-              and I'm honestly too lazy to make my own, because I don't know
-              the ratios. I'm sure some of you have a well made one. Thanks in
-              advance
-            </p>
-            <p class="card-text">
-              <small class="text-white-50">
-                5 replies<br />Last updated 3 mins ago</small>
-            </p>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-
-  <div class="container my-5">
-    <div class="card bg-brown">
-      <div class="row g-0">
-        <div class="col-md-4">
-          <img src="/img/refinery.png"  class="img-fluid rounded-start" alt="..." />
+          <img src="/img/refinery.png" class="img-fluid rounded-top" alt="..." />
         </div>
         <div class="col-md-8">
           <div class="card-body">
@@ -156,14 +160,20 @@
   </div>
 
   <footer class="d-flex flex-wrap justify-content-between align-items-center py-3 border-top fixed-bottom">
-        <div class="col-md-4 d-flex align-items-center mx-5">
-          <span class="mb-3 mb-md-0 text-white-50">© 2023 Miroslav Kuna</span>
-        </div>
-    
-        <ul class="nav col-md-4 justify-content-end list-unstyled d-flex mx-5">
-          <li class="ms-3"><a href="#"> <img src="/img/discord.png" class="img-fluid rounded-top" alt="" height="24" width="24"> </a></li>
-          <li class="ms-3"><a href="#"> <img src="/img/reddit.png" class="img-fluid rounded-top" alt="" height="30" width="30"> </a></li>
-          <li class="ms-3"><a href="#"> <img src="/img/twitter.png" class="img-fluid rounded-top" alt="" height="24" width="24"> </a></li>
-        </ul>
-      </footer>
+    <div class="col-md-4 d-flex align-items-center mx-5">
+      <span class="mb-3 mb-md-0 text-white-50">© 2023 Miroslav Kuna</span>
+    </div>
+
+    <ul class="nav col-md-4 justify-content-end list-unstyled d-flex mx-5">
+      <li class="ms-3"><a href="#"> <img src="/img/discord.png" class="img-fluid rounded-top" alt="" height="24"
+            width="24"> </a></li>
+      <li class="ms-3"><a href="#"> <img src="/img/reddit.png" class="img-fluid rounded-top" alt="" height="30"
+            width="30"> </a></li>
+      <li class="ms-3"><a href="#"> <img src="/img/twitter.png" class="img-fluid rounded-top" alt="" height="24"
+            width="24"> </a></li>
+    </ul>
+  </footer>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.0.2/js/bootstrap.bundle.min.js"></script>
+
 </html>
