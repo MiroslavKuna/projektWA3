@@ -23,3 +23,8 @@ body {
 #headerText {
   font-family: 'Alfa Slab One', cursive;
 }
+
+.zoomable{
+  display: inline-block;
+  position: relative;
+}

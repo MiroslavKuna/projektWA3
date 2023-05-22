@@ -56,7 +56,9 @@
     <div class="card bg-brown">
       <div class="row g-0">
         <div class="col-md-4">
-          <img src="/img/refinery.png" class="img-fluid rounded-top zoomable"  alt="..." />
+          <span class="zoomable">
+            <img src="/img/refinery.png" class="img-fluid rounded-top"  alt="..." />
+          </span>
         </div>
         <div class="col-md-8">
           <div class="card-body">
@@ -83,7 +85,9 @@
     <div class="card bg-brown">
       <div class="row g-0">
         <div class="col-md-4">
+        <span class="zoomable">
           <img src="/img/mods.png" class="img-fluid rounded-top" alt="..." />
+          </span>
         </div>
         <div class="col-md-8">
           <div class="card-body">
@@ -109,7 +113,9 @@
     <div class="card bg-brown">
       <div class="row g-0">
         <div class="col-md-4">
+          <span class="zoomable">
           <img src="/img/refinery.png" class="img-fluid rounded-top" alt="..." />
+          </span>
         </div>
         <div class="col-md-8">
           <div class="card-body">
@@ -136,7 +142,9 @@
     <div class="card bg-brown">
       <div class="row g-0">
         <div class="col-md-4">
-          <img src="/img/refinery.png" class="img-fluid rounded-top" alt="..." />
+          <span class="zoomable">
+          <img src="/img/refinery.png" class="rounded-top" alt="..." />
+          </span>
         </div>
         <div class="col-md-8">
           <div class="card-body">
