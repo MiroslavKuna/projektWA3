@@ -62,9 +62,11 @@
         </div>
         <div class="col-md-8">
           <div class="card-body">
+          <a href="#" class="link-light">
             <h5 class="card-title fw-bold text-white">
               Does anyone have an optimized blueprint for advanced refining?
             </h5>
+            </a>
             <p class="card-text">
               I could not find any well made scalable blueprint for refining
               and I'm honestly too lazy to make my own, because I don't know
@@ -91,9 +93,11 @@
         </div>
         <div class="col-md-8">
           <div class="card-body">
+          <a href="#" class="link-light">
             <h5 class="card-title fw-bold text-white">
               Beginner friendly QoL mods
             </h5>
+            </a>
             <p class="card-text">
               I'm looking for some beginner friendly QoL mods for my friend who is starting with the game. I'm not
               looking for anything that changes the game too much that fix some weird mechanics in the game. Any
@@ -114,23 +118,22 @@
       <div class="row g-0">
         <div class="col-md-4">
           <span class="zoomable">
-          <img src="/img/refinery.png" class="img-fluid rounded-top" alt="..." />
-          </span>
+            <img src="/img/bus.png" class="img-fluid rounded-top" alt="..." />
+            </span>
         </div>
         <div class="col-md-8">
           <div class="card-body">
+          <a href="#" class="link-light">
             <h5 class="card-title fw-bold text-white">
-              Does anyone have an optimized blueprint for advanced refining?
+              How does a bus work?
             </h5>
+            </a>
             <p class="card-text">
-              I could not find any well made scalable blueprint for refining
-              and I'm honestly too lazy to make my own, because I don't know
-              the ratios. I'm sure some of you have a well made one. Thanks in
-              advance
+              I've seen a lot of people talking about the main bus, secondary busses and so on, but i couldn't find any videos about them. Can someone explain? 
             </p>
             <p class="card-text">
               <small class="text-white-50">
-                5 replies<br />Last updated 3 mins ago</small>
+                9 replies<br />Last updated 15 mins ago</small>
             </p>
           </div>
         </div>
@@ -143,23 +146,22 @@
       <div class="row g-0">
         <div class="col-md-4">
           <span class="zoomable">
-          <img src="/img/refinery.png" class="rounded-top" alt="..." />
+          <img src="/img/buy.png" class="rounded-top" alt="..." />
           </span>
         </div>
         <div class="col-md-8">
           <div class="card-body">
+            <a href="#" class="link-light">
             <h5 class="card-title fw-bold text-white">
-              Does anyone have an optimized blueprint for advanced refining?
+              Is the game worth it?
             </h5>
+            </a>
             <p class="card-text">
-              I could not find any well made scalable blueprint for refining
-              and I'm honestly too lazy to make my own, because I don't know
-              the ratios. I'm sure some of you have a well made one. Thanks in
-              advance
+              I've been contemplating buying this game for a while, but every time I look at it, I get the feeling it's gonna be really repetetive + it's not cheap. Is it worth it?
             </p>
             <p class="card-text">
               <small class="text-white-50">
-                5 replies<br />Last updated 3 mins ago</small>
+                32 replies<br />Last updated 2 days ago</small>
             </p>
           </div>
         </div>

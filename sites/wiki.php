@@ -42,38 +42,8 @@
     </header>
 
     <!-- Main content -->
-    <div class="container my-5">
-      <h1>Welcome to the Factorio Fan Forum</h1>
-      <p>
-        Join the discussion about the popular game Factorio, share your tips and
-        tricks, and connect with other players from around the world.
-      </p>
-      <div class="row mt-5">
-        <div class="col-md-6">
-          <h2>Latest Forum Posts</h2>
-          <ul class="list-group">
-            <li class="list-group-item list-group-item-warning">
-              How to optimize oil refinery production
-            </li>
-            <li class="list-group-item list-group-item-warning">Favorite mods for multiplayer</li>
-            <li class="list-group-item list-group-item-warning">
-              Tips for launching rockets efficiently
-            </li>
-          </ul>
-        </div>
-        <div class="col-md-6">
-          <h2>Featured Wiki Articles</h2>
-          <ul class="list-group">
-            <li class="list-group-item list-group-item-warning">Beginner's Guide to Factorio</li>
-            <li class="list-group-item list-group-item-warning">
-              How to automate production with robots
-            </li>
-            <li class="list-group-item list-group-item-warning">Guide to advanced circuit networks</li>
-          </ul>
-        </div>
-      </div>
-    </div>
 
+    
     <!-- Footer -->
     <footer class="d-flex flex-wrap justify-content-between align-items-center py-3 border-top fixed-bottom">
         <div class="col-md-4 d-flex align-items-center mx-5">
