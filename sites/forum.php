@@ -12,12 +12,12 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   <link href="https://fonts.googleapis.com/css2?family=Alfa+Slab+One&display=swap" rel="stylesheet" />
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
-  <script src="/animationPlugins/jquery.zoom.js"></script>
+  <script src="/scripts/jquery.zoom.js"></script>
   <script src="/scripts/zoomImg.js"></script>
 </head>
 
-<body>  
-  
+<body>
+
   <header class="p-3 bg-brown">
     <div class="container">
       <div class="d-flex flex-wrap align-items-center justify-content-center justify-content-lg-start">
@@ -37,7 +37,7 @@
             <a href="wiki.php" class="nav-link px-2 text-white">Wiki</a>
           </li>
           <li>
-            <a href="about.php" class="nav-link px-2 text-white">About</a>
+            <a href="about.php" class="nav-link px-2 text-white">API</a>
           </li>
         </ul>
 
@@ -56,16 +56,16 @@
     <div class="card bg-brown">
       <div class="row g-0">
         <div class="col-md-4">
-          <span class="zoomable">
-            <img src="/img/refinery.png" class="img-fluid rounded-top"  alt="..." />
+          <span class="zoomable inline-block">
+            <img src="/img/refinery.png" class="img-fluid rounded-top" alt="..." />
           </span>
         </div>
         <div class="col-md-8">
           <div class="card-body">
-          <a href="#" class="link-light">
-            <h5 class="card-title fw-bold text-white">
-              Does anyone have an optimized blueprint for advanced refining?
-            </h5>
+            <a href="#" class="link-light">
+              <h5 class="card-title fw-bold text-white">
+                Does anyone have an optimized blueprint for advanced refining?
+              </h5>
             </a>
             <p class="card-text">
               I could not find any well made scalable blueprint for refining
@@ -87,20 +87,20 @@
     <div class="card bg-brown">
       <div class="row g-0">
         <div class="col-md-4">
-        <span class="zoomable">
-          <img src="/img/mods.png" class="img-fluid rounded-top" alt="..." />
+          <span class="zoomable inline-block">
+            <img src="/img/mods.png" class="img-fluid rounded-top" alt="..." />
           </span>
         </div>
         <div class="col-md-8">
           <div class="card-body">
-          <a href="#" class="link-light">
-            <h5 class="card-title fw-bold text-white">
-              Beginner friendly QoL mods
-            </h5>
+            <a href="#" class="link-light">
+              <h5 class="card-title fw-bold text-white">
+                Beginner friendly QoL mods
+              </h5>
             </a>
             <p class="card-text">
               I'm looking for some beginner friendly QoL mods for my friend who is starting with the game. I'm not
-              looking for anything that changes the game too much that fix some weird mechanics in the game. Any
+              looking for anything that changes the game too much. Just something that fixes some weird mechanics of the game. Any
               suggestions?
             </p>
             <p class="card-text">
@@ -117,19 +117,20 @@
     <div class="card bg-brown">
       <div class="row g-0">
         <div class="col-md-4">
-          <span class="zoomable">
+          <span class="zoomable inline-block">
             <img src="/img/bus.png" class="img-fluid rounded-top" alt="..." />
-            </span>
+          </span>
         </div>
         <div class="col-md-8">
           <div class="card-body">
-          <a href="#" class="link-light">
-            <h5 class="card-title fw-bold text-white">
-              How does a bus work?
-            </h5>
+            <a href="#" class="link-light">
+              <h5 class="card-title fw-bold text-white">
+                How does a bus work?
+              </h5>
             </a>
             <p class="card-text">
-              I've seen a lot of people talking about the main bus, secondary busses and so on, but i couldn't find any videos about them. Can someone explain? 
+              I've seen a lot of people talking about the main bus, secondary busses and so on, but i couldn't find any
+              videos about them. Can someone explain?
             </p>
             <p class="card-text">
               <small class="text-white-50">
@@ -145,19 +146,20 @@
     <div class="card bg-brown">
       <div class="row g-0">
         <div class="col-md-4">
-          <span class="zoomable">
-          <img src="/img/buy.png" class="rounded-top" alt="..." />
+          <span class="zoomable inline-block">
+            <img src="/img/buy.png" class="rounded-top" alt="..." />
           </span>
         </div>
         <div class="col-md-8">
           <div class="card-body">
             <a href="#" class="link-light">
-            <h5 class="card-title fw-bold text-white">
-              Is the game worth it?
-            </h5>
+              <h5 class="card-title fw-bold text-white">
+                Is the game worth it?
+              </h5>
             </a>
             <p class="card-text">
-              I've been contemplating buying this game for a while, but every time I look at it, I get the feeling it's gonna be really repetetive + it's not cheap. Is it worth it?
+              I've been contemplating buying this game for a while, but every time I look at it, I get the feeling it's
+              gonna be really repetetive + it's not cheap. Is it worth it?
             </p>
             <p class="card-text">
               <small class="text-white-50">
